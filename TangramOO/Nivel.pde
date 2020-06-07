@@ -17,11 +17,8 @@ class Nivel {
         }
       }
     }
-    System.out.println(contador2);
-    System.out.println(contador3);
     delta=contador3-contador2;
     escala=(float)Math.sqrt(((float)delta1)/((float)delta));
-    System.out.println(escala);
   }
   void display() {
     imageMode(CENTER);
