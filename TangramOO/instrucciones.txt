@@ -7,6 +7,6 @@ a mover o se presionan las teclas 0,1,2,3,4,5,6 para cada ficha.
 -Moviniento de las figuras sincronizado con el mouse o las techas 'w' arriba,'a' abajo,'s' izquierda,'d' derecha.
 -Rotación de figuras con la rueda del raton o tecla 'r'. 
 -Rotación especial del paralelogramo con el boton central del raton o tecla 'e'.
--Guardar un nivel creado en el modo creador se hace con la tecla 'g' 
+-Guardar un nivel creado en el modo creador se hace con la tecla 'l' 
 el nivel va a ser jugable inmediatamente y además se guardara una 
 imagen en la ubicación del juego.
